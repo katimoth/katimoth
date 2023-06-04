@@ -1,5 +1,5 @@
 <h1>Welcome to Tim Kao's repository!</h1>
-I am a senior at the University of Michigan studying Computer Science and Cognitive Science. I hope to make an impact by applying machine learning to real-world solutions. Here you'll find all of my personal projects throughout the last few years.
+I am a software engineer passionate about instrumenting creative solutions to modern challenges with an interest in AI/ML. Here you'll find all of my personal projects throughout the last few years.
 
 Enjoy!
 
