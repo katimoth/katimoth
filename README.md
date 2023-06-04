@@ -3,5 +3,5 @@ I am a software engineer passionate about instrumenting creative solutions to mo
 
 Enjoy!
 
-<h2>Recent Work</h2>
-Check out Denim Strategies' Live PA Vote Tracker at https://pavotetracker.com/
+<!-- <h2>Recent Work</h2> -->
+
